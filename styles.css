@@ -1,0 +1,154 @@
+ /* Base text styles */
+.text-white {
+    color: white;
+  }
+  
+  .text-black {
+    color: black;
+  }
+  
+  /* Font families */
+  .font-lusitana {
+    font-family: Lusitana;
+  }
+  
+  .font-abeezee {
+    font-family: ABeeZee;
+  }
+  
+  .font-abhaya {
+    font-family: 'Abhaya Libre ExtraBold';
+  }
+  
+  /* Font sizes */
+  .text-sm {
+    font-size: 13px;
+  }
+  
+  .text-base {
+    font-size: 15px;
+  }
+  
+  .text-md {
+    font-size: 24px;
+  }
+  
+  .text-lg {
+    font-size: 36px;
+  }
+  
+  .text-xl {
+    font-size: 64px;
+  }
+  
+  .text-2xl {
+    font-size: 96px;
+  }
+  
+  .text-3xl {
+    font-size: 128px;
+  }
+  
+  .text-4xl {
+    font-size: 190px;
+  }
+  
+  /* Line heights */
+  .leading-sm {
+    line-height: 22px;
+  }
+  
+  .leading-md {
+    line-height: 26px;
+  }
+  
+  .leading-lg {
+    line-height: 37px;
+  }
+  
+  .leading-xl {
+    line-height: 52px;
+  }
+  
+  /* Letter spacing */
+  .tracking-sm {
+    letter-spacing: 1.30px;
+  }
+  
+  .tracking-md {
+    letter-spacing: 1.50px;
+  }
+  
+  .tracking-lg {
+    letter-spacing: 1.92px;
+  }
+  
+  .tracking-xl {
+    letter-spacing: 2.40px;
+  }
+  
+  .tracking-2xl {
+    letter-spacing: 3.60px;
+  }
+  
+  .tracking-3xl {
+    letter-spacing: 6.40px;
+  }
+  
+  .tracking-4xl {
+    letter-spacing: 7.68px;
+  }
+  
+  .tracking-5xl {
+    letter-spacing: 12.80px;
+  }
+  
+  .tracking-6xl {
+    letter-spacing: 19px;
+  }
+  
+  /* Common properties */
+  .word-wrap {
+    word-wrap: break-word;
+  }
+  
+  .font-normal {
+    font-weight: 400;
+  }
+  
+  .font-bold {
+    font-weight: 800;
+  }
+  
+  /* Specific text styles that can be combined with above classes */
+  .exploration-text {
+    font-size: 24px;
+    font-family: Lusitana;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 1.92px;
+  }
+  
+  .imagination-title {
+    font-size: 96px;
+    font-family: Lusitana;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 7.68px;
+  }
+  
+  .dream-text {
+    font-size: 64px;
+    font-family: 'Abhaya Libre ExtraBold';
+    font-weight: 800;
+    line-height: 52px;
+    letter-spacing: 6.40px;
+  }
+  
+  .activity-text {
+    font-size: 128px;
+    font-family: 'Abhaya Libre ExtraBold';
+    font-weight: 800;
+    line-height: 52px;
+    letter-spacing: 12.80px;
+  }
